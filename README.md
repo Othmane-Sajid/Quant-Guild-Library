@@ -16,7 +16,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 
 ### 📅 2026 Video Lectures (Newest First)
 
-**Latest:*
+*Latest:*
 - **129.** [How to get Higher Sharpe Ratios in a Trading Strategy](https://youtu.be/GTVBT1SQKWY)
 - **128.** [How to Calculate Portfolio Alpha & Beta (Python + Interactive Brokers)](https://youtu.be/A7zJARrdo3U)
 - **127.** [The Ultimate Guide to Quant Portfolio Management](https://youtu.be/LX4Ugaxx9n0)
