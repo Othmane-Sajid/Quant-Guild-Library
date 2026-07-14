@@ -16,11 +16,14 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 
 ### 📅 2026 Video Lectures (Newest First)
 
-**Latest:**
-- **126.** [How to Model Tail-Risk: A Quantitative Survival Guide](https://youtu.be/-sE1kz-fypI)
-- **125.** [How to Calculate and Use Compound Annual Growth Rate (CAGR)](https://youtu.be/kOzvtRE_uX8)
+**Latest:*
+- **129.** [How to get Higher Sharpe Ratios in a Trading Strategy](https://youtu.be/GTVBT1SQKWY)
+- **128.** [How to Calculate Portfolio Alpha & Beta (Python + Interactive Brokers)](https://youtu.be/A7zJARrdo3U)
+- **127.** [The Ultimate Guide to Quant Portfolio Management](https://youtu.be/LX4Ugaxx9n0)
 
 **Previous:**
+- **126.** [How to Model Tail-Risk: A Quantitative Survival Guide](https://youtu.be/-sE1kz-fypI)
+- **125.** [How to Calculate and Use Compound Annual Growth Rate (CAGR)](https://youtu.be/kOzvtRE_uX8)
 - **124.** [When Does a Trading Strategy Actually Need to be Secret](https://youtu.be/WsEwKlr_1lA)
 - **123.** [How a Quant would Invest $1,000,000](https://youtu.be/37wRzGdC9w4)
 - **122.** [A REAL Quant Debunks the Day Trading Scam](https://youtu.be/xa5eSjASDWo)
