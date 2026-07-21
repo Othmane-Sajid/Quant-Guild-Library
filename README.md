@@ -17,12 +17,15 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2026 Video Lectures (Newest First)
 
 *Latest:*
+- **133.** [Projects to Help you Become a Quant (Intermediate)](https://youtu.be/swPOLhSIBHo)
+- **132.** [Live Capital Management: My 2025 Crisis Alpha](https://youtu.be/yRDs4atfRB0)
+- **131.** [Quant Explains Investing at 5 Levels](https://youtu.be/tmkkddOeAsM)
+
+**Previous:**
 - **130.** [Projects to Help you Become a Quant (Beginner)](https://youtu.be/secelDZAmWc)
 - **129.** [How to get Higher Sharpe Ratios in a Trading Strategy](https://youtu.be/GTVBT1SQKWY)
 - **128.** [How to Calculate Portfolio Alpha & Beta (Python + Interactive Brokers)](https://youtu.be/A7zJARrdo3U)
 - **127.** [The Ultimate Guide to Quant Portfolio Management](https://youtu.be/LX4Ugaxx9n0)
-
-**Previous:**
 - **126.** [How to Model Tail-Risk: A Quantitative Survival Guide](https://youtu.be/-sE1kz-fypI)
 - **125.** [How to Calculate and Use Compound Annual Growth Rate (CAGR)](https://youtu.be/kOzvtRE_uX8)
 - **124.** [When Does a Trading Strategy Actually Need to be Secret](https://youtu.be/WsEwKlr_1lA)
